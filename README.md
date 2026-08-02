@@ -118,17 +118,9 @@ Become a Software Engineer and AI/ML Engineer while building impactful real-worl
 
 A responsive restaurant website built using HTML, CSS and JavaScript.
 
-### 🤖 AI Attendance System
-
-Attendance management system using Python and Machine Learning.
-
 ### 📊 Power BI Dashboard
 
 Interactive dashboard created using Power BI and Excel datasets.
-
-### 📈 Data Analytics Projects
-
-Data cleaning, visualization and analysis using Python, Pandas and NumPy.
 
 ---
 
